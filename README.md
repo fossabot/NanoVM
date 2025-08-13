@@ -1,4 +1,6 @@
 # NanoVM
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frajbhushanm100%2FNanoVM.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Frajbhushanm100%2FNanoVM?ref=badge_shield)
+
 PoC lightweight x64 VM implementation
 
 ### Table of contents
@@ -172,3 +174,7 @@ Todo:
 * Add commands for modifying the stack and registers
 * Add whole memory dump which will dump all the memory pages including code and stack to the disk.
 * Add option to disassemble the whole code and dump to the disk with memory offsets
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Frajbhushanm100%2FNanoVM.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Frajbhushanm100%2FNanoVM?ref=badge_large)
